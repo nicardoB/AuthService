@@ -1,0 +1,19 @@
+{
+  "name": "authservice",
+  "version": "1.0.0",
+  "description": "Initialize project -> npm init Create file server.js Set up server.js with express: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicardoB/AuthService.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicardoB/AuthService/issues"
+  },
+  "homepage": "https://github.com/nicardoB/AuthService#readme"
+}
