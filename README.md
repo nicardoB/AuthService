@@ -5,7 +5,9 @@ Set up server.js with express: https://developer.mozilla.org/en-US/docs/Learn/Se
 npm install express
 Add router class: has endpoint which calls controller for logic
 Add controller class: handles logic and returns
-Set up Jest: 
-Add basic test:
+Set up Jest: https://jestjs.io/docs/en/getting-started.html
+Add basic test and test using npm run test
 Set up typescript:
-Update Jese to work with typescript
+Update Jest to work with typescript
+Make sure vs code can run with typescript
+Add Axios

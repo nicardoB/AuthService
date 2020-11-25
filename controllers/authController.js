@@ -2,6 +2,9 @@
 
 module.exports = {
     login:(un, pw) => {
-        return true;
+        if (un === `nick` && pw === `1234`){
+            return true;
+        }
+        return false;
     }
 };

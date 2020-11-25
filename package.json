@@ -4,7 +4,7 @@
   "description": "Initialize project -> npm init Create file server.js Set up server.js with express: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nicardoB/AuthService/issues"
   },
-  "homepage": "https://github.com/nicardoB/AuthService#readme"
+  "homepage": "https://github.com/nicardoB/AuthService#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
 }
